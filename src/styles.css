@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@1&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: "Pangolin", cursive; */
+  font-family: "IBM Plex Mono", monospace;
+}
+
+.App {
+  text-align: center;
+}
